@@ -1,0 +1,1 @@
+# cr-trade-helper-bot-config
