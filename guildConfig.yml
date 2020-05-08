@@ -1,3 +1,6 @@
-- {guild: 521149272645828615, prefix: '!'}
-- {guild: 516328884250345508, prefix: d}
-- {guild: 511987819665948682, prefix: longBotPrefix}
+- guild: 521149272645828615
+  prefix: '!'
+- guild: 516328884250345508
+  prefix: a
+- guild: 511987819665948682
+  prefix: longBotPrefix
