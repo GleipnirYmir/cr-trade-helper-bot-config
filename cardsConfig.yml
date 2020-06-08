@@ -499,6 +499,17 @@
     ? skeleton-barrel
     ? skeletonbarrel
   emoji: <:skeletonbarrel:521143707068792834>
+- name: skeleton-dragons
+  aliases: !!set
+    ? sd
+    ? sds
+    ? sdragon
+    ? sdragons    
+    ? skeleton-dragon
+    ? skeleton-dragons
+    ? skeletondragon
+    ? skeletondragons
+  emoji: <:skeletondragons:719558997564194828>
 - name: skeletons
   aliases: !!set
     ? sk
